@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+    <node pkg="homework2" type="bug0_algorithm.py" name="bug0_algorithm" output="screen" />
+</launch>
